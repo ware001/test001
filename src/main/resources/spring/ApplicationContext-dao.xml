@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+	<bean id = "EmpDao" class = "cn.kgc.tangcco.tcbd1017.nw.daoImpl.EmpDaoImpl"/>
+</beans>
